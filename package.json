@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "destinitylauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Destinity Launcher",
+  "description": "Launcher de Destinity Moddée",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et _Twiiix_",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/twiiiiiix/Destinity",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/twiiiiiix/HeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/twiiiiiix/Destinity.git"
   }
 }
